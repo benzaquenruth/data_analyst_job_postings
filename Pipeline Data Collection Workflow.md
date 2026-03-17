@@ -3,7 +3,7 @@ Here we also collect the data, but also do the ratings and the cover letters. Ev
 
 tools: 8n8
 
-###Workflow
+### Workflow
 
 ### Trigger
 Every morning at the same hour, the workflow is automatically triggered and starts the data collection process.
