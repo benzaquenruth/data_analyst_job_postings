@@ -1,9 +1,9 @@
 ## Pipeline Data Collection Workflow
 Here we also collect the data, but also do the ratings and the cover letters. Everything is automatize :)
 
-#tools: 8n8
+tools: 8n8
 
-##Workflow
+###Workflow
 
 ### Trigger
 Every morning at the same hour, the workflow is automatically triggered and starts the data collection process.
