@@ -3,7 +3,7 @@ Here we also collect the data, but also do the ratings and the cover letters. Ev
 
 tools: 8n8
 
-<img width="1081" height="463" alt="Screenshot 2026-03-17 115448" src="https://github.com/user-attachments/assets/1f3a4e4f-0f63-405f-80fd-d418a94f5102" />
+<img width="1152" height="451" alt="Screenshot 2026-03-17 115316" src="https://github.com/user-attachments/assets/d24b1e60-6c7f-4f06-9c60-a5cda1275bc6" />
 
 ## Workflow
 
