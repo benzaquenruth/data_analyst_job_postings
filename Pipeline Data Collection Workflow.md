@@ -3,6 +3,8 @@ Here we also collect the data, but also do the ratings and the cover letters. Ev
 
 tools: 8n8
 
+<img width="1081" height="463" alt="Screenshot 2026-03-17 115448" src="https://github.com/user-attachments/assets/1f3a4e4f-0f63-405f-80fd-d418a94f5102" />
+
 ## Workflow
 
 ### Trigger
