@@ -29,7 +29,7 @@ This project tracks Data Analyst job postings in Israel and analyzes them to und
 ## Key Questions
 - How many Data Analyst jobs were posted since the war started?
 - Which platforms publish the most positions?
-- How many posts I'm a 'perfect fir for the job'?
+- How many posts I'm a 'perfect fit for the job'?
 
 ## Future Improvements
 - Automate transformations with Python
