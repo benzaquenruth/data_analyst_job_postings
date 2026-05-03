@@ -39,7 +39,7 @@ Track Data Analyst job postings in Israel and analyze the market while automatic
 ---
 
 ## ❓ Key Questions
-- How many Data Analyst jobs were posted since the war started?  
+- How many Data Analyst jobs were posted? Weekly? Montly?  
 - Which platforms publish the most positions?  
 - What percentage of jobs am I a **strong fit** for?  
 - How does demand change over time?  
