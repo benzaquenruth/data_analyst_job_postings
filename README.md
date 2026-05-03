@@ -37,7 +37,7 @@ Track Data Analyst job postings in Israel and analyze the market while automatic
 - **Pandas**  
 - **Jupyter Notebook**  
 - **Google BigQuery** – data warehouse & transformations  
-- **Looker Studio** – dashboards & visualization  
+- **Looker Studio** – dashboards & visualization  --> https://datastudio.google.com/s/n_7K3BRZGzY
 
 ---
 
