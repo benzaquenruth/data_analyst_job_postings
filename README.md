@@ -65,3 +65,42 @@ Track Data Analyst job postings in Israel and analyze the market while automatic
 - Build a personalized job recommendation engine  
 - Develop a lightweight app for browsing top matches  
 - Add real-time alerts for high-fit job postings  
+
+---
+
+
+## 📁 Repository Structure
+
+This repository includes all the main components used to build and analyze the job market pipeline:
+
+### 🔄 8n8 Data Collection Workflow
+**File:** `8n8 Data Collection Workflow.md`  
+Contains a visual and explanation of the n8n workflow used to automatically collect job postings.  
+This is the **data ingestion layer** of the project — responsible for scraping, initial processing, and feeding the pipeline.
+
+
+### 📊 Initial Dataset
+**File:** `Job Listings Database.xlsx`  
+A sample of the first job postings collected at the beginning of the project.  
+- Represents the **raw structure of the data before improvements**  
+- Useful for understanding how the data originally looked  
+- The current pipeline includes additional enhancements and better structuring  
+
+
+### 🔍 Exploratory Data Analysis (EDA)
+**File:** `01_job_market_eda.ipynb`  
+Jupyter Notebook used for the **initial exploration of the dataset**.
+
+Includes:
+- Data cleaning and preprocessing  
+- First-level analysis and aggregations  
+- Identification of data quality issues  
+- Early insights and visualizations  
+
+This step was critical to:
+- Understand the dataset  
+- Define normalization and transformation logic in BigQuery  
+- Improve the data collection process in n8n  
+- Build a more structured and scalable pipeline  
+
+
