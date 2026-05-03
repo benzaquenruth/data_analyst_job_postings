@@ -3,6 +3,9 @@
 ## 🎯 Project Goal
 Track Data Analyst job postings in Israel and analyze the market while automatically evaluating how relevant each role is for me — eliminating the need to manually scroll through hundreds of postings.
 
+<img width="1774" height="887" alt="ed0867ed-18c8-4dc5-a571-23cc46410e46" src="https://github.com/user-attachments/assets/739933ce-a5fe-4bc3-ac35-7c532e0f309c" />
+
+
 ---
 
 ## ⚙️ What the Project Does
